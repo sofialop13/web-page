@@ -1,0 +1,13 @@
+h1 {
+	color: purple;
+}
+table,tr{
+         border: 3px solid yellow ;
+}
+td{ 
+padding: 10px;
+         border: 3px solid blue;
+ }
+body {
+ 	background-color: #f4af41;
+ }
